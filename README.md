@@ -34,7 +34,7 @@ $\color{#ffeca5}\textsf{ MayMadness 2012 }$
 
 $\color{#FFF1C1}\textsf{ Bluuworld }$
 
-$\color{#F7D96F}\textsf{ Bad thingsCookie run }$
+$\color{#F7D96F}\textsf{ Bad things }$
 
 $\color{#ffeca5}\textsf{ Cookie run }$
 
