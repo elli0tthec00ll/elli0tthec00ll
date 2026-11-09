@@ -1,9 +1,12 @@
-hi bro bor this is a wip 
+$\color{#ffeca5}\huge\textsf{ " Don't be so dramatic ! I got it under control ! " }$
+$\color{#ffeca5}\huge\textsf{ This is a work in progress ! }$
 
 <div align="center">
 
+$\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
+
 <details>
-<summary>$\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$</summary>
+<summary>$\color{#F7D96F}\textsf{ ︶︶︶ ABOUT ME }$</summary>
 
 $\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
 
