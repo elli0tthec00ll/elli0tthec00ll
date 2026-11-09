@@ -1,4 +1,4 @@
-$\color{#F7D96F}\huge\textsf{ ALYSSA : " Girl relax , we've got it under control ! " }$
+> $\color{#F7D96F}\huge\textsf{ ALYSSA : " Girl relax , we've got it under control ! " }$
 
 $\color{#ffeca5}\textsf{ This is a work in progress ! }$
 
