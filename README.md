@@ -11,7 +11,7 @@ $\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 <details>
 <summary>$\color{#F7D96F}\textsf{ ︶︶︶ ABOUT ME }$</summary>
 
-<p>$\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
+$\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
 
 $\color{#FFF1C1}\textsf{ ﹒  ◠   Bodily 17 y/o . }$
 
@@ -20,11 +20,11 @@ $\color{#F7D96F}\textsf{ 𐔌  . DID . Questioning BPD }$
 $\color{#ffeca5}\textsf{ 𓋰𓋰۫ ׅ𓏼 Mafioso . Scythe . Alyssa HVY-KIN ༝ }$
 
 $\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles . }$
-</details></p>
+</details>
 
 
 <details>
-<p><summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
+<summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
   
 $\color{#ffeca5}\textsf{ Cookie run }$
 
@@ -35,7 +35,7 @@ $\color{#F7D96F}\textsf{ Letters from sixteen }$
 $\color{#ffeca5}\textsf{ Deltarune }$
 
 $\color{#FFF1C1}\textsf{ MayMadness 2012 }$
-</details></p>
+</details>
 
 
 $\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
