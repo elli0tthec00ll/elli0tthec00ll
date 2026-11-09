@@ -24,15 +24,17 @@ $\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block
 <details>
 <summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
   
-<p>$\color{#ffeca5}\textsf{ Cookie run }$
+<p>$\color{#ffeca5}\textsf{ Letters from sixteen }$
   
 $\color{#FFF1C1}\textsf{ Forsaken }$
 
-$\color{#F7D96F}\textsf{ Letters from sixteen }$
+$\color{#F7D96F}\textsf{ Phighting }$
 
-$\color{#ffeca5}\textsf{ Deltarune }$
+$\color{#ffeca5}\textsf{ MayMadness 2012 }$
 
-$\color{#FFF1C1}\textsf{ MayMadness 2012 }$</p>
+$\color{#FFF1C1}\textsf{ Bad things }$
+
+$\color{#F7D96F}\textsf{ Cookie run }$</p>
 </details>
 
 </details>
