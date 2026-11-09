@@ -8,11 +8,11 @@ $\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
 
 $\color{#FFF1C1}\textsf{ ﹒  ◠   17 y/o . }$
 
-𐔌  . DID . Questioning BPD
+$\color{#F7D96F}\textsf{ 𐔌  . DID . Questioning BPD }$
 
-𓋰𓋰۫ ׅ𓏼 Mafioso . Scythe . Alyssa HVY-KINS ༝ 
+$\color{#ffeca5}\textsf{ 𓋰𓋰۫ ׅ𓏼 Mafioso . Scythe . Alyssa HVY-KINS ༝ }$
 
-જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles .
+$\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles . }$
 
 </div>
 
