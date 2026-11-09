@@ -3,9 +3,13 @@
 $\color{#ffeca5}\textsf{ This is a work in progress ! }$
 
 
+
 <div align="center">
 
+
+
 $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
+
 
 
 <details>
@@ -50,7 +54,9 @@ $\color{#FFF1C1}\textsf{ Let Him Go }$</p>
 </details>
 
 
+
 $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
+
 
 
 <details>
@@ -66,10 +72,13 @@ $\color{#ffeca5}\textsf{ 𓂃 ࣪˖ ִֶָ Please do not vent to us unless we kn
 </details>
 
 
+
 $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 
+
 $\color{#F7D96F}\textsf{ Now playing }$
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uga5depg3obejflohkiqaf7oke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffeca5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
