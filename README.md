@@ -34,6 +34,8 @@ $\color{#ffeca5}\textsf{ ★‿︵ We will block freely ! }$
 $\color{#FFF1C1}\textsf{ ˗ˏˋ Whisper too interact is preferred because we are offtab sometimes ! }$
 
 $\color{#F7D96F}\textsf{  + ° .  ๑ Tone tags aren't required when talking to us but they are highly recommended ! }$
+
+$\color{#ffeca5}\textsf{ 𓂃 ࣪˖ ִֶָ Please do not vent to us unless we know you well and consider you as a close or trusted friend .}$
 </details>
 
 
