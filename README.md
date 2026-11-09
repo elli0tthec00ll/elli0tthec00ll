@@ -15,6 +15,8 @@ $\color{#ffeca5}\textsf{ 𓋰𓋰۫ ׅ𓏼 Mafioso . Scythe . Alyssa HVY-KINS �
 
 $\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles . }$
 
+</details>
+
 </div>
 
 
