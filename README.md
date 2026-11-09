@@ -34,7 +34,8 @@ $\color{#F7D96F}\textsf{ Letters from sixteen }$
 
 $\color{#ffeca5}\textsf{ Deltarune }$
 
-$\color{#FFF1C1}\textsf{ MayMadness 2012 }$</p>
+$\color{#FFF1C1}\textsf{ MayMadness 2012 }$
+</details></p>
 
 
 $\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
