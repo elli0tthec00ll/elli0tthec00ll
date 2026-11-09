@@ -11,7 +11,7 @@ $\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 <details>
 <summary>$\color{#F7D96F}\textsf{ ︶︶︶ ABOUT ME }$</summary>
 
-$\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
+<p>$\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
 
 $\color{#FFF1C1}\textsf{ ﹒  ◠   Bodily 17 y/o . }$
 
@@ -19,12 +19,10 @@ $\color{#F7D96F}\textsf{ 𐔌  . DID . Questioning BPD }$
 
 $\color{#ffeca5}\textsf{ 𓋰𓋰۫ ׅ𓏼 Mafioso . Scythe . Alyssa HVY-KIN ༝ }$
 
-$\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles . }$
-</details>
-
+$\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles . }$</p>
 
 <details>
-<summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
+<p><summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
   
 $\color{#ffeca5}\textsf{ Cookie run }$
 
@@ -35,7 +33,7 @@ $\color{#F7D96F}\textsf{ Letters from sixteen }$
 $\color{#ffeca5}\textsf{ Deltarune }$
 
 $\color{#FFF1C1}\textsf{ MayMadness 2012 }$
-</details>
+</details></p>
 
 
 $\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
@@ -63,13 +61,3 @@ $\color{#F7D96F}\textsf{ Now playing }$
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uga5depg3obejflohkiqaf7oke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffeca5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
-<details>
-  <summary>▶ Parent Dropdown</summary>
-  <p>This is content inside the main dropdown.</p>
-
-  <details>
-    <summary>▶ Child Dropdown (Level 2)</summary>
-    <p>This is content inside the nested dropdown!</p>
-
-
