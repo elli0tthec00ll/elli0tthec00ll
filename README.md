@@ -24,7 +24,7 @@ $\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block
 <details>
 <summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
   
-<p>$\color{#ffeca5}\textsf{ Letters from sixteen }$
+<p>$\color{#ffeca5}\textsf{ Letters From Sixteen }$
   
 $\color{#FFF1C1}\textsf{ Forsaken }$
 
@@ -34,11 +34,17 @@ $\color{#ffeca5}\textsf{ MayMadness 2012 }$
 
 $\color{#FFF1C1}\textsf{ Bluuworld }$
 
-$\color{#F7D96F}\textsf{ Bad things }$
+$\color{#F7D96F}\textsf{ Bad Things }$
 
-$\color{#ffeca5}\textsf{ Cookie run }$
+$\color{#ffeca5}\textsf{ Cookie Run Kindom }$
 
-$\color{#FFF1C1}\textsf{ The Amazing Digital Circus }$</p>
+$\color{#FFF1C1}\textsf{ The Amazing Digital Circus }$
+
+$\color{#F7D96F}\textsf{ Roblox Admins }$
+
+$\color{#ffeca5}\textsf{ Sonic }$
+
+$\color{#FFF1C1}\textsf{ Let Him Go }$</p>
 </details>
 
 </details>
