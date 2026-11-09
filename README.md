@@ -4,5 +4,15 @@ hi bro bor this is a wip go look at repo-1 ?... okay?... ok...
   
 ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟
 
+♯ ┆ Valen or Alyssa  .ᐟ 
+﹒  ◠   17 y/o . 
+
+𐔌  . DID . Questioning BPD
+
+𓋰𓋰۫ ׅ𓏼 Mafioso . Scythe . Alyssa HVY-KINS ༝ 
+
+જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles .
+
 </div>
+
 
