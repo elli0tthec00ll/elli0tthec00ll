@@ -5,7 +5,7 @@ $\color{#ffeca5}\textsf{ This is a work in progress ! }$
 
 <div align="center">
 
-$\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
+$\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 
 <details>
@@ -50,7 +50,7 @@ $\color{#FFF1C1}\textsf{ Let Him Go }$</p>
 </details>
 
 
-$\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
+$\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 
 <details>
@@ -66,7 +66,7 @@ $\color{#ffeca5}\textsf{ 𓂃 ࣪˖ ִֶָ Please do not vent to us unless we kn
 </details>
 
 
-$\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
+$\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 
 $\color{#F7D96F}\textsf{ Now playing }$
