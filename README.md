@@ -25,6 +25,8 @@ $\color{#ffeca5}\textsf{ Deltarune }$
 $\color{#FFF1C1}\textsf{ MayMadness 2012 }$</p>
 </details>
 
+</details>
+
 
 $\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
