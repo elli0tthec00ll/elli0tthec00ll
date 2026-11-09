@@ -6,7 +6,7 @@ $\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 $\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
 
-$\color{#be9808}\textsf{ ﹒  ◠   17 y/o . }$
+$\color{#FFF1C1}\textsf{ ﹒  ◠   17 y/o . }$
 
 𐔌  . DID . Questioning BPD
 
