@@ -1,4 +1,4 @@
-hi bro bor this is a wip go look at repo-1 ?... okay?... ok...
+hi bro bor this is a wip 
 
 <div align="center">
 
