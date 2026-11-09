@@ -1,8 +1,9 @@
 hi bro bor this is a wip go look at repo-1 ?... okay?... ok...
 
 <div align="center">
-  
-$\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
+
+<details>
+</summary>$\color{#F7D96F}\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 $\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
 
