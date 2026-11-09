@@ -64,4 +64,22 @@ $\color{#F7D96F}\textsf{ Now playing }$
 
 </div>
 
+<details>
+  <summary>▶ Parent Dropdown</summary>
+  <p>This is content inside the main dropdown.</p>
+
+  <!-- Nested Dropdown Starts Here -->
+  <details>
+    <summary>▶ Child Dropdown (Level 2)</summary>
+    <p>This is content inside the nested dropdown!</p>
+    
+    <!-- You can even go a level deeper -->
+    <details>
+      <summary>▶ Grandchild Dropdown (Level 3)</summary>
+      <p>Deeply nested secrets live here.</p>
+    </details>
+  </details>
+  
+</details>
+
 
