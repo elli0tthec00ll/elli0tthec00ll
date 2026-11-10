@@ -17,7 +17,9 @@ $\color{#F7D96F}\textsf{ 𐔌  . DID . Questioning BPD }$
 
 $\color{#ffeca5}\textsf{ 𓋰𓋰۫ ׅ𓏼 Mafioso . Scythe . Alyssa HVY-KIN ༝ }$
 
-$\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles . }$</p>
+$\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block or avoid doubles . }$
+
+$\color{#F7D96F}\textsf{ 𓇼 ⋆.˚ 𓆝 I LOVE matching skins and cuddling / Cuddle piles ! }$</p>
 
 <details>
 <summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
