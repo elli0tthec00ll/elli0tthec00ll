@@ -42,7 +42,9 @@ $\color{#F7D96F}\textsf{ Roblox Admins }$
 
 $\color{#ffeca5}\textsf{ Sonic }$
 
-$\color{#FFF1C1}\textsf{ Let Him Go }$</p>
+$\color{#FFF1C1}\textsf{ Let Him Go }$
+
+$\color{#F7D96F}\textsf{ Written In The Locker Room }$</p>
 </details>
 
 </details>
