@@ -4,7 +4,7 @@ $\color{#ffeca5}\textsf{ This is a work in progress ! }$
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=elli0tthec00ll&label=♡&color=ffeca5)
+![](https://komarev.com/ghpvc/?username=elli0tthec00ll&label=♡&color=F7D96F)
 
 $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
