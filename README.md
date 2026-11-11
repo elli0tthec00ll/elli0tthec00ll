@@ -72,7 +72,7 @@ $\color{#ffeca5}\textsf{ 𓂃 ࣪˖ ִֶָ Please do not vent to us unless we kn
 $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 <details>
-<summary>$\color{#F7D96F}\textsf{! NOMINATIONS !}$</summary>
+<summary>$\color{#F7D96F}\textsf{ ︶︶︶ NOMINATIONS }$</summary>
 
 [𖦏](https://github.com/piddlesjet) $\color{#ffeca5}\textsf{Piddles Jet | Pony Towns scythe rifle ! Thank you !}$
 
@@ -80,6 +80,8 @@ $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞�
 
 [𖦏](https://github.com/THE-TEMPIST) $\color{#F7D96F}\textsf{The Tempest | The Tempest's scythe ! Thank you !}$
 </details>
+
+$\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
 $\color{#F7D96F}\textsf{ Now playing }$
 
