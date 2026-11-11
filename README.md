@@ -71,6 +71,16 @@ $\color{#ffeca5}\textsf{ 𓂃 ࣪˖ ִֶָ Please do not vent to us unless we kn
 
 $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
 
+<details>
+<summary>$\color{#F7D96F}\textsf{! NOMINATIONS !}$</summary>
+
+[𖦏](https://github.com/piddlesjet) $\color{#ffeca5}\textsf{Piddles Jet | Pony Towns scythe rifle ! Thank you !}$
+
+[𖦏](https://github.com/Knox-Event) $\color{#FFF1C1}\textsf{Knox Events | Knox Events scythe rifle and the most wanted by boggio ♪ ! Thank you !}$
+
+[𖦏](https://github.com/THE-TEMPIST) $\color{#F7D96F}\textsf{The Tempest | The Tempest's scythe ! Thank you !}$
+</details>
+
 $\color{#F7D96F}\textsf{ Now playing }$
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uga5depg3obejflohkiqaf7oke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffeca5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
