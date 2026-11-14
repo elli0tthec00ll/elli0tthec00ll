@@ -81,6 +81,8 @@ $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞�
 [𖦏](https://github.com/THE-TEMPIST) $\color{#F7D96F}\textsf{The Tempest | The Tempest's scythe ! Thank you !}$
 
 [𖦏](https://github.com/pt-walk-of-fame) $\color{#ffeca5}\textsf{Pony Towns Walk Of Fame | Pony Towns Walk Of Fames MOST WANTED ! Thank you !}$
+
+[𖦏](https://github.com/pt-everypony) $\color{#FFF1C1}\textsf{EveryPony | Pony Towns Alyssa ! Thank you !}$
 </details>
 
 $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟ }$
