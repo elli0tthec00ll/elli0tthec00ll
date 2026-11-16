@@ -13,7 +13,7 @@ $\color{#F7D96F}\huge\textsf{ ◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞�
   
 <p>$\color{#ffeca5}\textsf{ ♯ ┆ Valen or Alyssa  .ᐟ }$
   
-$\color{#FFF1C1}\textsf{ ﹒  ◠   Bodily 17 y/o . }$
+$\color{#FFF1C1}\textsf{ ﹒  ◠   Bodily 7Teen . }$
 
 $\color{#F7D96F}\textsf{ 𐔌  . DID . Questioning BPD }$
 
