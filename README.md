@@ -23,7 +23,9 @@ $\color{#FFF1C1}\textsf{ જ⁀➴ Chance VoidSharing Yumeshipper ! I will block
 
 $\color{#F7D96F}\textsf{ 𓇼 ⋆.˚ 𓆝 I LOVE matching skins and cuddling / Cuddle piles ! }$
 
-$\color{#ffeca5}\textsf{ 𓋰𓋰۫ ׅ𓏼 Sometimes i work with pony town open in the background so do expect late responses ! Sorry ! ༝ }$</p>
+$\color{#ffeca5}\textsf{ 𓋰𓋰۫ ׅ𓏼 Sometimes i work with pony town open in the background so do expect late responses ! Sorry ! ༝ }$
+
+$\color{#FFF1C1}\textsf{ Sometimes i may be / come off as angry and i apologies in advance TmT . }$</p>
 
 <details>
 <summary>$\color{#F7D96F}\textsf{ ︶︶︶ MY INTRESTS / FANDOMS }$</summary>
